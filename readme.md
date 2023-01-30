@@ -25,7 +25,7 @@
 | ![DarkMirrorq's Github Stats](https://github-readme-stats.vercel.app/api?username=DarkMirrorq&show_icons=true&theme=dark&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMirrorq&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
   
-![Metrics](https://metrics.lecoq.io/DarkMirrorq?template=classic&followup=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FMadrid&config.animated=true)
+[Metrics](https://metrics.lecoq.io/DarkMirrorq?template=classic&followup=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FMadrid&config.animated=true)
   
   
   
